@@ -1,0 +1,8 @@
+{
+  "name": "markdownifgy",
+  "version": "1.0.0",
+  "scripts": {},
+  "devDependencies": {
+    "shadow-cljs": "^2.10.14"
+  }
+}
